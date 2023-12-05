@@ -1,0 +1,5 @@
+I'm too lazy to make my own playlists once manually so I'd rather build a bot to do it fo rme
+
+> Fetch my like playlists
+> Sort by KNN or other classifier until satisfied
+> make playlist on spotify
